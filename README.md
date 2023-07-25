@@ -6,7 +6,7 @@ Adds a temporary group system for players - Adds leader/member blips
 
 
 ## Installation
-- `ensure elz_cripps` in your resources.cfg
+- `ensure elz_groupmaker` in your resources.cfg
 - edit the config file 
 - start your server 
 

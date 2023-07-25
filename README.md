@@ -21,7 +21,7 @@ Adds a temporary group system for players - Adds leader/member blips
 - As group leader, you can use `/removeGroup [CHAR_ID and NOT YOU]` to remove a player from your group and `/deleteGroup` to delete the group.
 - If a player disconnects from the server or crashes, the 'vorp:playerDropped' event handler removes the player from the group. If the player is the group leader, or the group contains only one member, the group is deleted.
   
-# FUTUR 
+# Todo List 
 - Add an invitation confirmation system with notifications.
 - Create an optional menu (enabled in config) with the list of connected players to replace current commands.
 - Add a configurable limit to group size
